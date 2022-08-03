@@ -1,0 +1,26 @@
+body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 740px;
+  background-image: linear-gradient(to bottom right, #F1EEE9, #73777B);
+  background-size: cover;
+  object-fit: cover;
+  background-repeat: no-repeat;
+
+}
+
+.icon{
+
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 20px;
+  background: url(../images/TravelSafe.png);
+  background-repeat: no-repeat;
+  background-color: #fff;
+  border:2px solid black;
+  box-shadow: 1.5px 1.5px 3px 3px #000000
+
+}
